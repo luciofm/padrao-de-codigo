@@ -356,8 +356,8 @@ When a @SuppressWarnings annotation is required, the code should be refactored t
 Treat acronyms and abbreviations as words in naming variables, methods, and classes. The names are much more readable:
 <table>
     <tr>
-        <td>Good</td>
-        <td>Bad</td>
+        <th>Good</th>
+        <th>Bad</th>
     </tr>
     <tr>
         <td>XmlHttpRequest</td>
